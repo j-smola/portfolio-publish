@@ -1,0 +1,18 @@
+/* css styles */
+.code {
+  color: #5bc0de !importanti;
+}
+
+#title-block-header .quarto-title-banner {
+  padding: 10px 0 20px 0;
+}
+
+.navbar-container {
+  text-transform: uppercase;
+}
+
+.scroll-300 {
+  max-height: 300px;
+  overflow-y: auto;
+  background-color: inherit;
+}
